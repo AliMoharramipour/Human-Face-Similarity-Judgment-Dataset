@@ -1,5 +1,4 @@
 # **Human-Face-Similarity-Judgment-Dataset**
-A large-scale dataset of 60,000 human face-similarity ranking trials collected from 445 participants across diverse set of faces. Participants ranked four faces by similarity to a target face, providing rich perceptual judgments for research on face perception.
 
 ## **Overview**
 This dataset includes a large collection of human face-similarity judgments across a diverse set of 2,275 faces. Online participants were recruited via the Prolific platform to perform a similarity ranking task. These participants passed a pre-screening, ensuring that they understood the task and were well-engaged. Multiple quality controls were also included in the main task to ensure the reliability of the collected responses. After excluding poor-quality sessions, a total of 33,465 similarity-ranking trials were collected, with about 42% completed by more than one participant. We also note that all participants provided online informed consent by clicking to agree to participate before starting the task. This experiment was conducted in accordance with RIKEN's ethical guidelines. 
