@@ -3,7 +3,7 @@ A large-scale dataset of 60,000 human face-similarity ranking trials collected f
 
 ## **Overview**
 This dataset includes a large collection of human face-similarity judgments across a diverse set of 2,275 faces. Online participants were recruited via the Prolific platform to perform a similarity ranking task. These participants passed a pre-screening, ensuring that they understood the task and were well-engaged. Multiple quality controls were also included in the main task to ensure the reliability of the collected responses. After excluding poor-quality sessions, a total of 33,465 similarity-ranking trials were collected, with about 42% completed by more than one participant. We also note that all participants provided online informed consent by clicking to agree to participate before starting the task. This experiment was conducted in accordance with RIKEN's ethical guidelines. 
-Please refer to our paper titled “???” for a comprehensive description of the details. 
+Please refer to our paper titled “Trade-off between performance and human-like perception in face recognition models” for a comprehensive description of the details. 
 ## **Task description**
 In each trial, participants viewed one target face and four choice faces. They were instructed to rank the four choice faces from most to least similar to the target face. They were asked to ignore differences in expression or head orientation. No additional cues or instructions were provided to avoid biasing their natural similarity judgments.  
 ## **Dataset contents**
@@ -34,6 +34,6 @@ Indicate a trial performed twice by the same participant within a session, but a
 Indicate a trial in which one of the choice faces is identical to the target.
 ### **Unique trial number:** 
 Identifies a unique trial number across our dataset. Note that some trials were performed by more than one participant or repeated by the same participant (as described by Control 1 above), or both. 
-To better understand these descriptions, see our paper “???”.
+To better understand these descriptions, see our paper “Trade-off between performance and human-like perception in face recognition models”.
 ## **2. Participants_demographic_data.csv**
 This file contains anonymized demographic information of the participants, including Age, Gender, Ethnicity, Country of birth, Country of residence, Nationality, and first language.
