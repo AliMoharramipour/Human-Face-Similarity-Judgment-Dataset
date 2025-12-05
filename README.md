@@ -17,10 +17,10 @@ An arbitrary number reflecting the session in which a trial was completed; usefu
 This column specifies the face ID shown as the target in each trial. The Face IDs range from 1 to 2,819. 
 
 IDs 1 to 2,222 correspond exactly to the 2,222 faces in the 10k US Adult Faces Dataset (USAFD), with the same numbering as in the dataset folder “annotations/Face Annotations/Images and Annotations.” Note that among the 2,222 IDs, 544 IDs (i.e., faces) were not used in our data. The USAFD dataset is accessible from the following link:
-[Face dateset1](https://wilmabainbridge.com/facememorability2.html)
+[USAFD](https://wilmabainbridge.com/facememorability2.html)
 
 IDs 2,223 to 2,819 correspond exactly to 597 neutral-expression faces from the Chicago Face Database (CFD). For example, face 2,223 is face 1 in the CFD dataset, face 2,224 is face 2, and so on. The CFD dataset is accessible from the following link:
-[Face dateset2](https://www.chicagofaces.org/)
+[CFD](https://www.chicagofaces.org/)
 
 ### **Face 1 to Face 4:** 
 These columns specify the face IDs shown as the choice faces in each trial. Faces 1 to 4 were located from left to right of the screen under the target face. The IDs' descriptions are similar to those above. 
