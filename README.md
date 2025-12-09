@@ -19,7 +19,7 @@ This column specifies the face ID shown as the target in each trial. The Face ID
 IDs 1 to 2,222 correspond exactly to the 2,222 faces in the 10k US Adult Faces Database (USAFD), with the same numbering as in the database folder “annotations/Face Annotations/Images and Annotations.” Note that among the 2,222 IDs, 544 IDs (i.e., faces) were not used in our data. The USAFD database is accessible from the following link:
 [USAFD](https://wilmabainbridge.com/facememorability2.html)
 
-IDs 2,223 to 2,819 correspond to 597 neutral-expression faces from the Chicago Face Database (CFD). Please refer to the **FaceIDs_to_CFD_correspondence.csv** file to see which ID corresponds to which face in the CFD database. The CFD database is accessible from the following link:
+IDs 2,223 to 2,819 correspond to 597 neutral-expression faces from the Chicago Face Database (CFD). Please refer to the "**FaceIDs_to_CFD_correspondence.csv**" file to see which ID corresponds to which face in the CFD database. The CFD database is accessible from the following link:
 [CFD](https://www.chicagofaces.org/)
 
 ### **Face 1 to Face 4:** 
