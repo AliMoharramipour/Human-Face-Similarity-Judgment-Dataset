@@ -27,7 +27,7 @@ These columns specify the face IDs shown as the choice faces in each trial. Face
 ### **Trial number:** 
 Each experimental session consisted of 100 trials. This column indicates the trial’s position within the session.
 ### **Face click order:** 
-This column shows the participant’s rankings in each trial, from first (most similar to the target face) to last (least similar to the target face). For example, ['Face3', 'Face4', 'Face2', 'Face1'] indicates that the face in the column “Face3” was ranked first, the face in the “Face 4” second, the face in the “Face 2” third, and the face in “Face 1” last. 
+This column shows the participant’s rankings in each trial, from first (most similar to the target face) to last (least similar to the target face). For example, ['Face3', 'Face4', 'Face2', 'Face1'] indicates that the face in the “Face3” column was ranked first, the face in the “Face 4” column second, the face in the “Face 2” column third, and the face in the “Face 1” column last. 
 ### **Displayed-as-control:** 
 Marks trials included as quality controls:
 #### **Control 1:** 
