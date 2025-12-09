@@ -16,10 +16,10 @@ An arbitrary number reflecting the session in which a trial was completed; usefu
 ### **Target Face:** 
 This column specifies the face ID shown as the target in each trial. The Face IDs range from 1 to 2,819. 
 
-IDs 1 to 2,222 correspond exactly to the 2,222 faces in the 10k US Adult Faces Dataset (USAFD), with the same numbering as in the dataset folder “annotations/Face Annotations/Images and Annotations.” Note that among the 2,222 IDs, 544 IDs (i.e., faces) were not used in our data. The USAFD dataset is accessible from the following link:
+IDs 1 to 2,222 correspond exactly to the 2,222 faces in the 10k US Adult Faces Database (USAFD), with the same numbering as in the database folder “annotations/Face Annotations/Images and Annotations.” Note that among the 2,222 IDs, 544 IDs (i.e., faces) were not used in our data. The USAFD database is accessible from the following link:
 [USAFD](https://wilmabainbridge.com/facememorability2.html)
 
-IDs 2,223 to 2,819 correspond exactly to 597 neutral-expression faces from the Chicago Face Database (CFD). For example, face 2,223 is face 1 in the CFD dataset, face 2,224 is face 2, and so on. The CFD dataset is accessible from the following link:
+IDs 2,223 to 2,819 correspond to 597 neutral-expression faces from the Chicago Face Database (CFD). Please refer to the "**FaceIDs_to_CFD_correspondence.csv**" file to see which ID corresponds to which face in the CFD database. The CFD database is accessible from the following link:
 [CFD](https://www.chicagofaces.org/)
 
 ### **Face 1 to Face 4:** 
@@ -27,7 +27,7 @@ These columns specify the face IDs shown as the choice faces in each trial. Face
 ### **Trial number:** 
 Each experimental session consisted of 100 trials. This column indicates the trial’s position within the session.
 ### **Face click order:** 
-This column shows the participant’s rankings in each trial, from first (most similar to the target face) to last (least similar to the target face). For example, ['Face3', 'Face4', 'Face2', 'Face1'] indicates that the face in the column “Face3” was ranked first, the face in the “Face 4” second, the face in the “Face 2” third, and the face in “Face 1” last. 
+This column shows the participant’s rankings in each trial, from first (most similar to the target face) to last (least similar to the target face). For example, ['Face3', 'Face4', 'Face2', 'Face1'] indicates that the face in the “Face3” column was ranked first, the face in the “Face 4” column second, the face in the “Face 2” column third, and the face in the “Face 1” column last. 
 ### **Displayed-as-control:** 
 Marks trials included as quality controls:
 #### **Control 1:** 
